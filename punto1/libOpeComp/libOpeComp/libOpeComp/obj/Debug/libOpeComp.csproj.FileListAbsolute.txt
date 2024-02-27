@@ -1,0 +1,9 @@
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\bin\Debug\libOpeComp.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\bin\Debug\libOpeComp.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\bin\Debug\clsRnCaf.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\bin\Debug\clsRnCaf.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\obj\Debug\libOpeComp.csproj.AssemblyReference.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\obj\Debug\libOpeComp.csproj.CoreCompileInputs.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\obj\Debug\libOpeComp.csproj.Up2Date
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\obj\Debug\libOpeComp.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libOpeComp\libOpeComp\libOpeComp\obj\Debug\libOpeComp.pdb

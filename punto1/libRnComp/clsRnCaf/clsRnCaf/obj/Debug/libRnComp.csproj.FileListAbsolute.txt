@@ -1,0 +1,12 @@
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\clsRnCaf\clsRnCaf\bin\Debug\clsRnCaf.dll
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\clsRnCaf\clsRnCaf\bin\Debug\clsRnCaf.pdb
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\libRnComp.csproj.AssemblyReference.cache
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\libRnComp.csproj.CoreCompileInputs.cache
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\clsRnCaf.dll
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\clsRnCaf.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libRnComp\clsRnCaf\clsRnCaf\bin\Debug\clsRnCaf.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libRnComp\clsRnCaf\clsRnCaf\bin\Debug\clsRnCaf.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\libRnComp.csproj.AssemblyReference.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\libRnComp.csproj.CoreCompileInputs.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\clsRnCaf.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\libRnComp\clsRnCaf\clsRnCaf\obj\Debug\clsRnCaf.pdb

@@ -1,0 +1,25 @@
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\bin\Debug\Cafetería Mi U.exe.config
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\bin\Debug\Cafetería Mi U.exe
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\bin\Debug\Cafetería Mi U.pdb
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.csproj.AssemblyReference.cache
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería_Mi_U.Contadordejamones.resources
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería_Mi_U.Properties.Resources.resources
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.csproj.GenerateResource.cache
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.csproj.CoreCompileInputs.cache
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.exe
+C:\Users\aflop\Source\Repos\Ergothkampfgaist94\libRnComp\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\Cafetería Mi U.exe.config
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\Cafetería Mi U.exe
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\Cafetería Mi U.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\clsRnCaf.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\libOpeComp.dll
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\clsRnCaf.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\bin\Debug\libOpeComp.pdb
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.csproj.AssemblyReference.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería_Mi_U.Contadordejamones.resources
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería_Mi_U.Properties.Resources.resources
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.csproj.GenerateResource.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.csproj.CoreCompileInputs.cache
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafeterí.F3642211.Up2Date
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.exe
+C:\Users\HYGCO\Source\Repos\Ergothkampfgaist94\Punto1\punto1\AppFormPedido\Cafetería Mi U\obj\Debug\Cafetería Mi U.pdb
